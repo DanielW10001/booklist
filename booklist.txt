@@ -1,8 +1,10 @@
 # Electronics:
 
+# Electromagnetic Wave
 "电磁波理论", "Jin Au Kong", "电子工业出版社"
 "Electromagnetic Wave Theory", "Jin Au Kong", ""
 
+# Semiconductor Physics and Devices
 "实用电子元器件与电路基础", "Paul Scherz", ""
 "Practical Electronics for Inventors", "Paul Scherz", ""
 "数字逻辑电路的ASIC设计", "小林芳直著", ""
@@ -42,6 +44,7 @@
 "半导体器件基础", "Betty Anderson", ""
 "Fundaments of Semiconductor Devices", "Betty Anderson", ""
 
+# Digital Circuits
 "数字集成电路", "Jan M. Rabaey", ""
 "Digital Integrated Circuits", "Jan M. Rabaey", ""
 "数字集成电路分析与设计", "David A. Hodges", ""
@@ -91,6 +94,7 @@
 "Digital Systems", "Ronald J. Tocci", ""
 "Introduction to Logic Design", "Alan B. Marcovitz", ""
 
+# 机械工业出版社: 国外电子与电气工程技术丛书
 "电子电路原理", "Albert Malvino", "机械工业出版社"
 "Electronic Circuit Theory", "Albert Malvino", ""
 "数字逻辑基础与Verilog设计", "Stephen Brown", "机械工业出版社"
@@ -128,45 +132,52 @@
 "电磁兼容的印刷电路板设计", "Marki I. Montrose", "机械工业出版社"
 "Printed Circuit Board Design Techniques for EMC Compliance", "Marki I. Montrose", ""
 
-"CPU源代码分析与芯片设计及Linux系统移植", "倪继利", "电子工业出版社"
-
+# Digital Circuits Design
 "数字集成电路物理设计", "陈春章", ""
 "高级ASIC芯片综合", "Himanshu Bhatnagar", ""
 "Advanced ASIC Chip Synthesis", "Himanshu Bhatnagar", ""
 "Static Timing Analysis for Nanometer Designs", "J. Bhasker", ""
 "Advanced System-on-Chip Test Design and Optimization", "Erik Larsson", ""
 "从应用到创新", "陈皓", "电子工业出版社"
+"数字VLSI芯片设计", "Erik Brunvand", ""
+"Digital VLSI Chip Design", "Erik Brunvand", ""
 
+# Hardware Description Language
 "轻松成为设计高手", "EDA先锋工作室", ""
 "Verilog数字系统设计教程", "夏宇闻", ""
+"SystemVerilog验证", "Chris B. Spear", ""
+"SystemVerilog for Verification", "Chris B. Spear", ""
+"Verilog与SystemVerilog编程陷阱", "Stuart Sutherland", "机械工业出版社"
+"Verilog and SystemVerilog Gotchas", "Stuart Sutherland", ""
 
+# Digital Signal
 "VLSI数字信号处理系统设计与实现", "Parhi Keshab K.", "机械工业出版社"
 "VLSI Digital Signal Processing Systems", "Parhi Keshab K.", ""
 "数字信号处理的FPGA实现", "U. Meyer-Baese", "清华大学出版社"
 "Digital Signal Processing with Field Programmable Gate Arrays", "U. Meyer-Baese", ""
 
+# Computer Architecture
 "计算机体系结构", "John L. Hennessy", ""
 "Computer Architecture", "John L. Hennessy", ""
 "CPU自制入门", "水头一寿", "人民邮电出版社"
 "大型RISC处理器设计", "Ulrich Golze", ""
 "VLSI Chip Design With the Hardware Description Language Verilog", "Ulrich Golze", ""
 "大话处理器", "万木杨", ""
+"CPU源代码分析与芯片设计及Linux系统移植", "倪继利", "电子工业出版社"
 
-"SystemVerilog验证", "Chris B. Spear", ""
-"SystemVerilog for Verification", "Chris B. Spear", ""
-
-"数字VLSI芯片设计", "Erik Brunvand", ""
-"Digital VLSI Chip Design", "Erik Brunvand", ""
-
+# Programming for Electronics
 "Tcl/Tk入门经典", "John K. Ousterhout", ""
 "Tcl and the Tk Toolkit", "John K. Ousterhout", ""
 "Perl语言入门", "Randal L. Schwartz", ""
 "Learning Perl", "Randal L. Schwartz", ""
 
+# Linux for Electronics
 "鸟哥的Linux私房菜", "鸟哥", ""
 
+# Integrated Circuits
 "胡说IC", "胡运旺", ""
 
+# 电子工业出版社: 国外电子与通信教材系列
 "电路", "James W. Nilsson", "电子工业出版社"
 "Electric Circuits", "James W. Nilsson", ""
 "CMOS超大规模集成电路设计", "David Money Harris", "电子工业出版社"
@@ -202,6 +213,7 @@
 "信号完整性分析", "Eric Bogatin", "电子工业出版社"
 "Signal Integrity", "Eric Bogatin", ""
 
+# Designer's Booklist
 "The Designer's Guide to High-Punity Oscillators", "Emad Hegazi", ""
 "The Designer's Guide to Verilog-AMS", "Kenneth S. Kundert", ""
 "The Designer's Guide to SPICE and Spectre", "Kenneth S. Kundert", ""
@@ -327,7 +339,25 @@
 "Optimizing Compilers for Modern Architectures", "Randy Allen", "Morgan Kaufmann"
 "现代编译原理", "Andrew W. Appel", "人民邮电出版社"
 "Modern Compiler Implementation in C", "Andrew W. Appel", ""
+"Compilers", "Alfred V. Aho", "Addison Wesley"
+"TCP/IP高效编程", "Jon C. Snader", "人民邮电出版社"
+"Effective TCP/IP Programming", "Jon C. Snader", ""
+"Intel汇编语言程序设计", "Kip Irvine", "电子工业出版社"
+"Assembly Language for Intel-Based Computers", "Kip Irvine", ""
+"Computer Systems", "Randal E. Bryant", "Addison Wesley"
+"Essential C++", "Stanley B. Lippman", "电子工业出版社"
+"Essential C++", "Stanley B. Lippman", ""
+"C++反汇编与逆向分析技术揭秘", "钱林松", "机械工业出版社"
+"Docker技术入门与实战", "杨保华", "机械工业出版社"
+"第一本Docker书", "James Turnbull", "人民邮电出版社"
+"The Docker Book", "James Turnbull", ""
+"Docker进阶与实战", "华为Docker实践小组", "机械工业出版社"
+"深入理解Java虚拟机", "周志明", "机械工业出版社"
+"Effective Java", "Joshua Bloch", "机械工业出版社"
+"Effective Java", "Joshua Bloch", ""
+"智慧的疆界", "周志明", "机械工业出版社"
 
+# 电子工业出版社: 国外计算机科学教材系列
 "Intel 微处理器全系列", "Barry B.Brey", "电子工业出版社"
 "The Intel Microprocessors Architecture, Programming, and Interfacing", "Barry B.Brey", ""
 "和谐界面", "Steven Heim", "电子工业出版社"
@@ -383,6 +413,7 @@
 "可变目标C编译器", "Christopher W. Fraser", ""
 "A Retargetable C Compiler", "Christopher W. Fraser", ""
 
+# 机械工业出版社: 计算机科学丛书
 "信息检索", "Stefan Buttcher", "机械工业出版社"
 "Information Retrieval", "Stefan Buttcher", ""
 "嵌入式系统导论", "Edward Ashford Lee", "机械工业出版社"
@@ -719,9 +750,8 @@
 "Introduction to Automata Theory, Languages, and Computation", "John E. Hopcroft", ""
 "计算机网络", "Larry L. Peterson", "机械工业出版社"
 "Computer Networks", "Larry L. Peterson", ""
-# TODO
+# TODO: , "机械工业出版社"
 "形式语言与自动机导论", "Peter Linz"
 "An Introduction to Formal Languages and Automata", "Peter Linz"
-
-"Verilog与SystemVerilog编程陷阱", "Stuart Sutherland", "机械工业出版社"
-"Verilog and SystemVerilog Gotchas", "Stuart Sutherland", ""
+"UNIX系统编程", "Kay A. Robbins"
+"UNIX Systems Programming", "Kay A. Robbins"
