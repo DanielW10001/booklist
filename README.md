@@ -14,7 +14,7 @@ Notice:
 Work with Python 3:
 
 ```python3
-with open('./book.txt', 'r', encoding='utf-8') as file:
+with open('./booklist.txt', 'r', encoding='utf-8') as file:
     for line in file:
         if line[0] != '\n' and line[0] != '#':
             title, author, publisher = eval(line)
