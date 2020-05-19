@@ -383,6 +383,15 @@
 "The Creativity Code", "Marcus du Sautoy", ""
 "树之礼赞", "Manuel Lima", "机械工业出版社"
 "The Book of Trees", "Manuel Lima", ""
+"深入理解OSGi", "周志明", "机械工业出版社"
+"Hadoop大数据挖掘从入门到进阶实战", "邓杰", "机械工业出版社"
+"HikariCP数据库连接池实战", "朱政科", "机械工业出版社"
+"Spark Streaming实时流式大数据处理实战", "肖力涛", "机械工业出版社"
+"PostgreSQL数据库内核分析", "彭智勇", "机械工业出版社"
+"PostgreSQL修炼之道", "唐成", "机械工业出版社"
+"SQL Server 性能优化与管理的艺术", "黄钊吉", "机械工业出版社"
+"Power BI智能数据分析与可视化从入门到精通", "牟恩静", "机械工业出版社"
+"商业智能", "李杰臣", "机械工业出版社"
 
 # 电子工业出版社: 国外计算机科学教材系列
 "Intel 微处理器全系列", "Barry B.Brey", "电子工业出版社"
@@ -846,6 +855,16 @@
 "Parallel Computer Organization and Design", "Michel Dubois"
 "嵌入式计算系统设计原理", "Marilyn Wolf"
 "Computers as Components", "Marilyn Wolf"
+"计算机网络实验教程", "Emad Aboelela"
+"Network Simulation Experiments Manual", "Emad Aboelela"
+"云计算与分布式系统", "Kai Hwang"
+"Distributed and Cloud Computing", "Kai Hwang"
+"Java语言程序设计与数据结构", "Y. Daniel Liang"
+"Introduction to Java Programming and Data Structures", "Y. Daniel Liang"
+"Java语言程序设计", "Y. Daniel Liang"
+"Introduction to Java Programming", "Y. Daniel Liang"
+"数据挖掘与R语言", "Luis Torgo"
+"Data Mining with R", "Luis Torgo"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
