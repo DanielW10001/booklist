@@ -765,6 +765,12 @@
 "Artificial Intelligence", "Michael Negnevitsky"
 "LLVM编译器实战教程", "Bruno Cardoso Lopes"
 "Getting Started with LLVM Core Libraries", "Bruno Cardoso Lopes"
+"Java程序设计概念", "Cay Horstmann"
+"Java Concepts", "Cay Horstmann"
+"Java程序设计教程", "Stuart Reges"
+"Building Java Programs", "Stuart Reges"
+"Java编程思想", "Bruce Eckel"
+"Thinking in Java", "Bruce Eckel"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
@@ -779,3 +785,9 @@
 "Python深度学习", "吴茂贵", "机械工业出版社"
 "Python自然语言处理", "Jalaj Thanaki", "机械工业出版社"
 "Python Natural Language Processing", "Jalaj Thanaki", ""
+
+# 机械工业出版社: Java核心技术系列
+"Java并发编程", "高洪岩", "机械工业出版社"
+"Java多线程编程核心技术", "高洪岩", "机械工业出版社"
+"Java虚拟机规范", "Tim Lindholm", "机械工业出版社"
+"The Java Virtual Machine Specification", "Tim Lindholm", ""
