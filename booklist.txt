@@ -381,6 +381,8 @@
 "硅谷简史", "钱纲", "机械工业出版社"
 "天才与算法", "Marcus du Sautoy", "机械工业出版社"
 "The Creativity Code", "Marcus du Sautoy", ""
+"树之礼赞", "Manuel Lima", "机械工业出版社"
+"The Book of Trees", "Manuel Lima", ""
 
 # 电子工业出版社: 国外计算机科学教材系列
 "Intel 微处理器全系列", "Barry B.Brey", "电子工业出版社"
@@ -810,6 +812,24 @@
 "Advanced Compiler Design and Implementation", "Steven S. Muchnick"
 "Python科学计算", "John M. Stewart"
 "Python for Scientists", "John M. Stewart"
+"模式分类", "Richard O. Duda"
+"Pattern Classification", "Richard O. Duda"
+"现代密码学及其应用", "Richard E. Blahut"
+"Cryptography and Secure Communication", "Richard E. Blahut"
+"数据结构与算法分析", "Mark Allen Weiss"
+"Data Structures and Algorithm Analysis in C", "Mark Allen Weiss"
+"程序设计基础", "Tony Gaddis"
+"Starting Out with Programming Logic & Design", "Tony Gaddis"
+"Java语言导学", "Sharon Biocca Zakhour"
+"The Java Tutorial", "Sharon Biocca Zakhour"
+"永恒的图灵", "S. Barry Cooper"
+"The Once and Future Turing", "S. Barry Cooper"
+"遥感数字影像处理导论", "John R. Jensen"
+"Introductory Digital Image Processing", "John R. Jensen"
+"推荐系统", "Francesco Ricci"
+"Recommender Systems Handbook", "Francesco Ricci"
+"信息物理系统应用与原理", "Raj Rajkumar"
+"Cyber-Physical Systems", "Raj Rajkumar"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
