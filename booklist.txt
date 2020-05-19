@@ -360,6 +360,27 @@
 "UEFI原理与编程", "戴正华", "机械工业出版社"
 "Python自动化运维", "刘天斯", "机械工业出版社"
 "量化交易之路", "阿布", "机械工业出版社"
+"Python网络爬虫从入门到实践", "唐松", "机械工业出版社"
+"Python数据科学", "常国珍", "机械工业出版社"
+"Python数据挖掘与机器学习实战", "方巍", "机械工业出版社"
+"Python Flask Web开发入门与项目实战", "钱游", "机械工业出版社"
+"TypeScript图形渲染实战", "步磊峰", "机械工业出版社"
+"数学与泛型编程", "Alexander A. Stepanov", "机械工业出版社"
+"From Mathematics to Generic Programming", "Alexander A. Stepanov", ""
+"深入浅出React和Redux", "程墨", "机械工业出版社"
+"深入浅出Webpack", "吴浩麟", "电子工业出版社"
+"零基础入门Python深度学习", "刘文如", "机械工业出版社"
+"Python编程从0到1", "张頔", "机械工业出版社"
+"人脸识别与美颜算法实战", "方圆圆", "机械工业出版社"
+"从零开始学Python网络爬虫", "罗攀", "机械工业出版社"
+"Python数据科学", "常国珍", "机械工业出版社"
+"Odoo快速入门与实战", "刘金亮", "机械工业出版社"
+"Python 3.x入门到应用实践", "赵军", "机械工业出版社"
+"人工智能极简编程入门", "张光华", "机械工业出版社"
+"人工智能+", "Handel Jones", "机械工业出版社"
+"硅谷简史", "钱纲", "机械工业出版社"
+"天才与算法", "Marcus du Sautoy", "机械工业出版社"
+"The Creativity Code", "Marcus du Sautoy", ""
 
 # 电子工业出版社: 国外计算机科学教材系列
 "Intel 微处理器全系列", "Barry B.Brey", "电子工业出版社"
@@ -771,6 +792,24 @@
 "Building Java Programs", "Stuart Reges"
 "Java编程思想", "Bruce Eckel"
 "Thinking in Java", "Bruce Eckel"
+"Java语言导学", "Raymond Gallardo"
+"The Java Tutorial", "Raymond Gallardo"
+"Java语言程序设计", "Y. Daniel Liang"
+"Introduction to Java Programming", "Y. Daniel Liang"
+"Java语言程序设计与数据结构", "Y. Daniel Liang"
+"Introduction to Java Programming and Data Structures", "Y. Daniel Liang"
+"程序设计基础", "Tony Gaddis"
+"Starting Out with Programming Logic & Design", "Tony Gaddis"
+"结构化并行程序设计", "Michael McCool"
+"Structured Parallel Programming", "Michael McCool"
+"LLVM编译器实战教程", "Bruno Cardoso Lopes"
+"Getting Started with LLVM Core Libraries", "Bruno Cardoso Lopes"
+"可变目标C编译器", "Christopher W. Fraser"
+"A Retargetable C Compiler", "Christopher W. Fraser"
+"高级编译器设计与实现", "Steven S. Muchnick"
+"Advanced Compiler Design and Implementation", "Steven S. Muchnick"
+"Python科学计算", "John M. Stewart"
+"Python for Scientists", "John M. Stewart"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
@@ -791,3 +830,15 @@
 "Java多线程编程核心技术", "高洪岩", "机械工业出版社"
 "Java虚拟机规范", "Tim Lindholm", "机械工业出版社"
 "The Java Virtual Machine Specification", "Tim Lindholm", ""
+"Java核心技术", "Cay S. Horstmann", "机械工业出版社"
+"Core Java", "Cay S. Horstmann", ""
+
+# 机械工业出版社: 华章程序员书库
+"Java图像处理", "Nicolas Modrzyk", "机械工业出版社"
+"OpenCV实例精解", "Prateek Joshi", "机械工业出版社"
+
+# 机械工业出版社: 华章原创精品
+"深入理解Java虚拟机", "周志明", "机械工业出版社"
+
+# 机械工业出版社: 高等院校信息安全专业规划教材
+"编译与反编译技术", "庞建民", "机械工业出版社"
