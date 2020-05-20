@@ -443,6 +443,20 @@
 "Effective Java", "Joshua Bloch", "机械工业出版社"
 "Effective Java", "Joshua Bloch", ""
 
+# 机械工业出版社: 机器人学译丛
+"发展型机器人", "Angelo Cangelosi"
+"Developmental Robotics", "Angelo Cangelosi"
+"机器人操作中的力学原理", "Matthew T. Mason"
+"Mechanics of Robotic Manipulation", "Matthew T. Mason"
+"机器人自动化", "Luc Jaulin"
+"Automation for Robotics", "Luc Jaulin"
+"医疗机器人建模与制造", "Jun Ueda"
+"Human Modeling for Bio-Inspired Robotics", "Jun Ueda"
+"现代机器人学", "Kevin M. Lynch"
+"Modern Robotics", "Kevin M. Lynch"
+"移动机器人学", "Alonzo Kelly"
+"Mobile Robotics", "Alonzo Kelly"
+
 # 电子工业出版社: 国外计算机科学教材系列
 "Intel 微处理器全系列", "Barry B.Brey", "电子工业出版社"
 "The Intel Microprocessors Architecture, Programming, and Interfacing", "Barry B.Brey", ""
@@ -1015,6 +1029,16 @@
 "Recommender Systems Handbook", "Francesco Ricci"
 "Java语言导学", "Sharon Biocca Zakhour"
 "The Java Tutorial", "Sharon Biocca Zakhour"
+"Scala编程思想", "Bruce Eckel"
+"Atomic Scala", "Bruce Eckel"
+"软/硬件协同设计", "Patrick R. Schaumont"
+"A Practical Introduction to Hardware/Software Codesign", "Patrick R. Schaumont"
+"交互式系统设计", "David Benyon"
+"Designing Interactive Systems", "David Benyon"
+"机器学习", "Tom M. Mitchell"
+"Machine Learning", "Tom M. Mitchell"
+"机器学习导论", "Ethem Alpaydin"
+"Introduction to Machine Learning", "Ethem Alpaydin"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
