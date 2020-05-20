@@ -392,6 +392,20 @@
 "SQL Server 性能优化与管理的艺术", "黄钊吉", "机械工业出版社"
 "Power BI智能数据分析与可视化从入门到精通", "牟恩静", "机械工业出版社"
 "商业智能", "李杰臣", "机械工业出版社"
+"操作系统之哲学原理", "邹恒明", "机械工业出版社"
+"人件", "Tom DeMarco", "机械工业出版社"
+"Peopleware", "Tom DeMarco", ""
+"人月神话", "Frederick P. Brooks，Jr", "清华大学出版社"
+"The Mythical Man-Month", "Frederick P. Brooks，Jr", ""
+"Linux软件管理平台设计与实现", "段继刚", "机械工业出版社"
+"Linux命令速查手册", "Scott Granneman", "清华大学出版社"
+"Linux Phrasebook", "Scott Granneman", ""
+"Mac OS X Snow Leopard for Power Users", "Scott Granneman", ""
+"Linux高性能服务器编程", "游双", "机械工业出版社"
+"Linux内核精髓", "池田宗广", "机械工业出版社"
+"Linux Kernel Hacks", "池田宗广", ""
+"高性能Linux服务器构建实战", "高俊峰", "机械工业出版社"
+"Linux内核完全注释", "赵炯", "机械工业出版社"
 
 # 电子工业出版社: 国外计算机科学教材系列
 "Intel 微处理器全系列", "Barry B.Brey", "电子工业出版社"
@@ -865,6 +879,12 @@
 "Introduction to Java Programming", "Y. Daniel Liang"
 "数据挖掘与R语言", "Luis Torgo"
 "Data Mining with R", "Luis Torgo"
+"操作系统概念", "Abraham Silberschatz"
+"Operating System Concepts", "Abraham Silberschatz"
+"推荐系统", "Charu C. Aggarwal"
+"Recommender Systems", "Charu C. Aggarwal"
+"IT项目管理", "Kathy Schwalbe"
+"Information Technology Project Management", "Kathy Schwalbe"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
