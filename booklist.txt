@@ -916,6 +916,18 @@
 "Essentials of MATLAB Programming", "Stephen J. Chapman"
 "嵌入式软件设计基础", "Daniel W. Lewis"
 "Fundamentals of Embedded Software", "Daniel W. Lewis"
+"C++程序设计", "Bjarne Stroustrup"
+"Programming", "Bjarne Stroustrup"
+"操作系统设计", "Douglas Comer"
+"Operating System Design", "Douglas Comer"
+"计算机科学导论", "Behrouz A. Forouzan"
+"Foundations of Computer Science", "Behrouz A. Forouzan"
+"计算机文化", "June Jamrich Parsons"
+"New Perspectives on Computer Concepts", "June Jamrich Parsons"
+"计算机组成", "Andrew S. Tanenbaum"
+"Structured Computer Organization", "Andrew S. Tanenbaum"
+"计算机网络", "James F. Kurose"
+"Computer Networking", "James F. Kurose"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
