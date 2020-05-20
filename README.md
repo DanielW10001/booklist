@@ -1,13 +1,13 @@
 # booklist
 
-Structured publish info for CS and EE books.
+Structured publication info for CS and EE books.
 
 Structure: "TITLE", "AUTHOR", "PUBLISHER"
 
 Notice: 
 
-- Chinese and English publishes are included.
-- For publishes with multiple authors, only one author is included.
+- Chinese and English publications are included.
+- For publications with multiple authors, only one author is included.
 - Publisher may be not included.
 - May include empty line or comment line led with '#'.
 
