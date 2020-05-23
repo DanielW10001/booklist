@@ -1369,6 +1369,14 @@
 "Real-Time Software Design for Embedded Systems", "Hassan Gomaa"
 "编译原理", "Alfred V. Aho"
 "Compilers", "Alfred V. Aho"
+"结构化并行程序设计", "Michael McCool"
+"Structured Parallel Programming", "Michael McCool"
+"LLVM编译器实战教程", "Bruno Cardoso Lopes"
+"Getting Started with LLVM Core Libraries", "Bruno Cardoso Lopes"
+"C程序设计语言", "Brian W. Kernighan"
+"The C Programming Language", "Brian W. Kernighan"
+"信息物理系统应用与原理", "Raj Rajkumar"
+"Cyber-Physical Systems", "Raj Rajkumar"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
