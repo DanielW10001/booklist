@@ -1377,6 +1377,12 @@
 "The C Programming Language", "Brian W. Kernighan"
 "信息物理系统应用与原理", "Raj Rajkumar"
 "Cyber-Physical Systems", "Raj Rajkumar"
+"DW 2.0", "William H. Inmon"
+"DW 2.0", "William H. Inmon"
+"数据库系统实现", "Jeffrey D. Ullman"
+"Database Systems", "Jeffrey D. Ullman"
+"软件项目管理", "Bob Hughes"
+"Software Project Management", "Bob Hughes"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
