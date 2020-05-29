@@ -1399,6 +1399,14 @@
 "Thinking Functionally with Haskell", "Richard Bird"
 "软件可靠性方法", "Doron A. Peled"
 "Software Reliability Methods", "Doron A. Peled"
+"逻辑与计算机设计基础", "M. Morris R. Mano"
+"Logic and Computer Design Fundamentals", "M. Morris R. Mano"
+"数字逻辑设计与计算机组成", "Nikrouz Faroughi"
+"Digital Logic Design and Computer Organization", "Nikrouz Faroughi"
+"面向计算机科学的数理逻辑", "Michael Huth"
+"Logic in Computer Science", "Michael Huth"
+"组合数学", "Richard A.Brualdi"
+"Introductory Combinatorics", "Richard A.Brualdi"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
