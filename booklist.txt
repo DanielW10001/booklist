@@ -1375,6 +1375,8 @@
 "Getting Started with LLVM Core Libraries", "Bruno Cardoso Lopes"
 "C程序设计语言", "Brian W. Kernighan"
 "The C Programming Language", "Brian W. Kernighan"
+"C程序设计语言 习题解答", "Clovis L. Tondo"
+"The C Answer Book", "Clovis L. Tondo"
 "信息物理系统应用与原理", "Raj Rajkumar"
 "Cyber-Physical Systems", "Raj Rajkumar"
 "DW 2.0", "William H. Inmon"
@@ -1383,6 +1385,14 @@
 "Database Systems", "Jeffrey D. Ullman"
 "软件项目管理", "Bob Hughes"
 "Software Project Management", "Bob Hughes"
+"神经网络与机器学习", "Simon Haykin"
+"Neural Networks and Learning Machines", "Simon Haykin"
+"数字设计", "John F. Wakerly"
+"Digital Design", "John F. Wakerly"
+"Go程序设计语言", "Alan A. A. Donovan"
+"The Go Programming Language", "Alan A. A. Donovan"
+"量子编程基础", "Mingsheng Ying"
+"Foundations of Quantum Programming", "Mingsheng Ying"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
