@@ -465,6 +465,8 @@
 "How to Solve It", "George Polya", ""
 "Windows内核安全与驱动开发", "谭文", "电子工业出版社"
 "Go语言学习笔记", "雨痕", "电子工业出版社"
+"Algebra of Programming", "Richard Bird", ""
+"Pearls Of Functional ALgorithm Design", "Richard Bird", ""
 
 # 机械工业出版社: 机器人学译丛
 # TODO: 机械工业出版社
@@ -1393,6 +1395,8 @@
 "The Go Programming Language", "Alan A. A. Donovan"
 "量子编程基础", "Mingsheng Ying"
 "Foundations of Quantum Programming", "Mingsheng Ying"
+"Haskell函数式程序设计", "Richard Bird"
+"Thinking Functionally with Haskell", "Richard Bird"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
