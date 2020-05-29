@@ -1397,6 +1397,8 @@
 "Foundations of Quantum Programming", "Mingsheng Ying"
 "Haskell函数式程序设计", "Richard Bird"
 "Thinking Functionally with Haskell", "Richard Bird"
+"软件可靠性方法", "Doron A. Peled"
+"Software Reliability Methods", "Doron A. Peled"
 
 # 机械工业出版社: 智能系统与技术丛书
 "分布式机器学习", "刘铁岩", "机械工业出版社"
